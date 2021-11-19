@@ -9,7 +9,7 @@ website testing
 Here's what a star-nosed mole looks like:
 
 ![front view of a star-nosed mole](https://upload.wikimedia.org/wikipedia/commons/e/ef/Condylura.jpg)
-[Map](/website/map/)
+[Map](/website/maps/)
 
 Isn't it adorable?!
 
