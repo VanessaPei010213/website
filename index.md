@@ -6,11 +6,11 @@ website testing
 
 ## Appearance
 
-Here's what a star-nosed mole looks like:
+Prof. Steven and Vanessa have visited Vanderbilt Fine Arts Gallery with Mary Anne, Interim Curator of the gallery:
 
-![front view of a star-nosed mole](IMG_3470.JPG)
+![Vanessa visiting the gallery with Mary Anne](IMG_3470.JPG)
 [Map](/website/maps/)
-
-Isn't it adorable?!
+[Graph](/website/graph/)
+[Timeline](/website/timeline/)
 
 #
